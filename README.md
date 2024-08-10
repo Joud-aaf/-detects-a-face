@@ -1,4 +1,4 @@
-# detects a face
+# HuskyLens Detects a Face
 Use arduino to switch ON a LED when the HuskyLens detects a face
 
 
